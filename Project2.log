@@ -1,0 +1,5 @@
+﻿  election.cpp
+  main.cpp
+  vote.cpp
+  Generating Code...
+C:\Users\User\source\repos\Project2\election.h(25,30): error C2061: syntax error: identifier 'istream'
